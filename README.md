@@ -1,2 +1,2 @@
 # IITSite
-My Profile assingment for Intro to IT
+My Profile assignment for Intro to IT
